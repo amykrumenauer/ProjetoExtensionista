@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Poppins:wght@500&display=swap');
+
+.contato {
+  background-color: #003459;
+  color: white;
+  padding: 4rem 2rem;
+  text-align: center;
+}
+
+.contato-titulo {
+  font-family: 'Amatic SC', cursive;
+  font-size: 3rem;
+  color: #F9D923;
+  margin-bottom: 1rem;
+}
+
+.contato-texto {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 1.1rem;
+  max-width: 800px;
+  margin: 0 auto 3rem auto;
+  line-height: 1.6;
+}
+
+.contato-conteudo {
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+  gap: 2.5rem;
+}
+
+.contato-icones {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.icone-img {
+  width: 40px;
+  height: 40px;
+  transition: transform 0.3s ease, filter 0.3s ease;
+  filter: brightness(1.1);
+}
+
+.icone-img:hover {
+  transform: scale(1.2);
+  filter: brightness(1.5);
+}
+
+.contato-mapa {
+  width: 100%;
+  max-width: 700px;
+}
+
+/* Responsividade */
+@media (min-width: 768px) {
+  .contato-conteudo {
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    text-align: left;
+  }
+
+  .contato-icones {
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem;
+  }
+
+  .contato-mapa {
+    flex: 1;
+  }
+}

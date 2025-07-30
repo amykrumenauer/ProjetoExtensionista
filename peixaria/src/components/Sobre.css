@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Poppins:wght@500&display=swap');
+
+.sobre {
+  background-color: #ffffff;
+  padding: 4rem 2rem;
+  text-align: center;
+  color: #000;
+}
+
+.sobre-titulo {
+  font-family: 'Amatic SC', cursive;
+  font-size: 3rem;
+  color: #003459;
+  margin-bottom: 1rem;
+}
+
+.sobre-texto {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 1.1rem;
+  max-width: 800px;
+  margin: 0 auto 2.5rem auto;
+  line-height: 1.7;
+}
+
+.sobre-img {
+  width: 100%;
+  max-width: 700px;
+  border-radius: 10px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+}

@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+
+.navbar {
+  background-color: #003459;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+}
+
+.logo {
+  font-family: 'Amatic SC', cursive;
+  color: #F9D923;
+  font-size: 2.5rem;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+}
+
+.nav-links a {
+  font-family: 'Amatic SC', cursive;
+  color: #F9D923;
+  text-decoration: none;
+  font-size: 1.8rem;
+  transition: opacity 0.2s ease-in-out;
+}
+
+.nav-links a:hover {
+  opacity: 0.7;
+}
