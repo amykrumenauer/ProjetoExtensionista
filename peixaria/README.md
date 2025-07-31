@@ -25,6 +25,8 @@ npm install
 # Rode o projeto localmente
 npm run dev
 
+```
+
 ## 🚀 Tecnologias Utilizadas
 
 - [ReactJS](https://reactjs.org/)
