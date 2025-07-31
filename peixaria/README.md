@@ -4,18 +4,11 @@ Este é um projeto **extensionista** desenvolvido para a disciplina da PUCPR, co
 
 O objetivo é proporcionar uma presença digital moderna e funcional para a peixaria, utilizando **React** com **Vite** e boas práticas de desenvolvimento responsivo.
 
-## 🚀 Como iniciar o projeto
+## 🚀 Como rodar o projeto
 
 Você pode rodar o projeto localmente com os seguintes comandos:
 
 ```bash
-# Criação do projeto com Vite
-npm create vite@latest peixaria
-
-# Escolha as opções:
-# ✔ React
-# ✔ JavaScript
-
 # Acesse a pasta criada
 cd peixaria
 
