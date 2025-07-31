@@ -1,11 +1,11 @@
 import React from 'react';
 import './Produtos.css';
-import peixaria from '../assets/peixaria.png'; // substitua pelo caminho da sua imagem
-import cardapioPDF from '../assets/cardapio.pdf'; // coloque o PDF na pasta assets
+import peixaria from '../assets/peixaria.png'; 
+import cardapioPDF from '../assets/cardapio.pdf'; 
 
 const Produtos = () => {
   return (
-    <section className="produtos">
+    <section id="produtos" className="produtos">
       <h2 className="produtos-titulo">Conheça nossos produtos</h2>
       <p className="produtos-descricao">
         Descubra a variedade de pescados, camarões, frutos do mar e produtos coloniais que a Peixaria & Empório do Vale oferece.
@@ -31,3 +31,4 @@ const Produtos = () => {
 };
 
 export default Produtos;
+

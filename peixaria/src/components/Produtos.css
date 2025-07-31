@@ -2,9 +2,12 @@
 
 .produtos {
   background-color: #003459;
-  padding: 4rem 2rem;
+  padding: 1rem 2rem;
   text-align: center;
   color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .produtos-titulo {
@@ -19,16 +22,16 @@
   font-weight: 500;
   font-size: 1.1rem;
   max-width: 700px;
-  margin: 0 auto 2rem auto;
   line-height: 1.6;
+  margin-bottom: 2rem;
 }
 
 .produtos-img {
   width: 100%;
   max-width: 700px;
-  margin: 2rem auto;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  margin-bottom: 1.5rem;
 }
 
 .btn-cardapio {
@@ -38,10 +41,10 @@
   font-family: 'Poppins', sans-serif;
   font-weight: 500;
   padding: 0.75rem 1.5rem;
-  border-radius: 8px;
+  border-radius: 25px;
   text-decoration: none;
-  margin-top: 1rem;
   transition: background-color 0.3s ease;
+  margin-bottom: 1.5rem; /* para separar do texto de baixo */
 }
 
 .btn-cardapio:hover {
@@ -51,7 +54,7 @@
 .produtos-mensagem {
   font-family: 'Poppins', sans-serif;
   font-weight: 500;
-  margin-top: 2rem;
   font-size: 1rem;
   color: white;
+  max-width: 700px;
 }

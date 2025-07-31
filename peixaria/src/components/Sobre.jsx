@@ -1,10 +1,10 @@
 import React from 'react';
 import './Sobre.css';
-import fachada from '../assets/fachada.png'; // imagem da frente da peixaria
+import fachada from '../assets/fachada.png';
 
 const Sobre = () => {
   return (
-    <section className="sobre">
+    <section id="sobre" className="sobre">
       <h2 className="sobre-titulo">Sobre nós</h2>
       <p className="sobre-texto">
         A Peixaria e Empório do Vale é uma empresa familiar localizada em Curitiba – PR, que há três anos leva qualidade incomparável em pescados e produtos coloniais para sua mesa.

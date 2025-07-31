@@ -1,13 +1,13 @@
 import React from 'react';
 import './Home.css';
-import tilapia from '../assets/tilapia.png'; // troque pelo caminho da sua imagem
+import tilapia from '../assets/tilapia.png'; 
 
 const Home = () => {
   return (
-    <section className="home">
+    <section id="home" className="home">
       <div className="home-left">
-        <h1 className="title">Nossos peixes, seu sorriso!<br />Qualidade incomparável!</h1>
-        <p className="subtitle">Eleita a melhor tilápia fresca da região!</p>
+        <h1 className="title">Nossos peixes, seu sorriso. Qualidade incomparável!</h1>
+        <p className="subtitle">Eleita a melhor Tilápia fresca da região!</p>
         <a
           href="https://wa.me/5541991064083" 
           target="_blank"
