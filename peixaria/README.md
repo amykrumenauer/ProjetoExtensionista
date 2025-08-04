@@ -10,7 +10,7 @@ O objetivo é proporcionar uma presença digital moderna e funcional para a peix
 ## Protótipo no Figma
 - https://www.figma.com/design/XMywvYzmUi8n78VPFfMMxZ/Peixaria---Emp%C3%B3rio-do-Vale?node-id=0-1&p=f&t=6wxDo2oHCfZ6FduP-0
 
-## 🚀 Como rodar o projeto
+## Como rodar o projeto
 
 Você pode rodar o projeto localmente com os seguintes comandos:
 
@@ -26,7 +26,7 @@ npm run dev
 
 ```
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - [ReactJS](https://reactjs.org/)
 - HTML5 + CSS3
@@ -35,7 +35,7 @@ npm run dev
 - Layout responsivo com `flexbox`
 - Deploy recomendado: Vercel ou Netlify
 
-## 🎨 Layout e Design
+## Layout e Design
 
 A identidade visual foi pensada para refletir os valores da marca:
 
@@ -46,7 +46,7 @@ A identidade visual foi pensada para refletir os valores da marca:
   - Títulos: `Amatic SC`
   - Textos: `Poppins`
 
-## 📸 Funcionalidades
+## Funcionalidades
 
 - Navegação por seções (Home, Produtos, Sobre nós, Contato)
 - Visualização do cardápio em PDF
