@@ -1,6 +1,6 @@
 import React from 'react';
 import './Sobre.css';
-import fachada from '../assets/fachada.png';
+import fachada from '../assets/fachada.jpg';
 
 const Sobre = () => {
   return (

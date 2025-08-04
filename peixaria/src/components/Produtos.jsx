@@ -1,6 +1,6 @@
 import React from 'react';
 import './Produtos.css';
-import peixaria from '../assets/peixaria.png'; 
+import peixaria from '../assets/peixaria.jpg'; 
 import cardapioPDF from '../assets/cardapio.pdf'; 
 
 const Produtos = () => {
@@ -20,7 +20,7 @@ const Produtos = () => {
         rel="noopener noreferrer"
         className="btn-cardapio"
       >
-        Ver Cardápio PDF
+        Ver Cardápio em PDF
       </a>
 
       <p className="produtos-mensagem">
