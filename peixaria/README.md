@@ -28,12 +28,11 @@ npm run dev
 
 ## Tecnologias Utilizadas
 
-- [ReactJS](https://reactjs.org/)
+- ReactJS
 - HTML5 + CSS3
 - JavaScript (ES6+)
 - Google Fonts (`Amatic SC` e `Poppins`)
 - Layout responsivo com `flexbox`
-- Deploy recomendado: Vercel ou Netlify
 
 ## Layout e Design
 
