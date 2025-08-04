@@ -4,6 +4,12 @@ Este é um projeto **extensionista** desenvolvido para a disciplina da PUCPR, co
 
 O objetivo é proporcionar uma presença digital moderna e funcional para a peixaria, utilizando **React** com **Vite** e boas práticas de desenvolvimento responsivo.
 
+## Link para o site em produção
+- https://peixariaeemporiodovale.vercel.app
+
+## Protótipo no Figma
+- https://www.figma.com/design/XMywvYzmUi8n78VPFfMMxZ/Peixaria---Emp%C3%B3rio-do-Vale?node-id=0-1&p=f&t=6wxDo2oHCfZ6FduP-0
+
 ## 🚀 Como rodar o projeto
 
 Você pode rodar o projeto localmente com os seguintes comandos:
