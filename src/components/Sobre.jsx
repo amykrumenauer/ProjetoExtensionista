@@ -9,7 +9,7 @@ const Sobre = () => {
       <p className="sobre-texto">
         A Peixaria e Empório do Vale é uma empresa familiar localizada em Curitiba – PR, que há três anos leva qualidade incomparável em pescados e produtos coloniais para sua mesa.
         <br />
-        Oferecemos peixes frescos, frutos do mar, conservas, empanados e muito mais — tudo com aquele toque caseiro e atendimento de confiança. Atendemos tanto no varejo quanto no atacado, sempre com foco na excelência e no carinho com cada cliente.
+        Oferecemos o melhor em peixes e frutos do mar, com variedade, atendimento personalizado e produtos selecionados para garantir refeições deliciosas e saudáveis.
       </p>
       <img src={fachada} alt="Fachada da Peixaria" className="sobre-img" />
     </section>

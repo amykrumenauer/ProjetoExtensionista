@@ -9,7 +9,7 @@ const Produtos = () => {
       <h2 className="produtos-titulo">Conheça nossos produtos</h2>
       <p className="produtos-descricao">
         Descubra a variedade de pescados, camarões, frutos do mar e produtos coloniais que a Peixaria & Empório do Vale oferece.
-        Tudo com qualidade incomparável e aquele toque caseiro que você merece.
+        Tudo com qualidade incomparável e ótimos preços.
       </p>
 
       <img src={peixaria} alt="Imagem da Peixaria" className="produtos-img" />
@@ -24,7 +24,7 @@ const Produtos = () => {
       </a>
 
       <p className="produtos-mensagem">
-        Produtos com preços negociáveis para empresas e revendedores.
+        <strong>Produtos com preços negociáveis para empresas e revendedores.</strong>
       </p>
     </section>
   );

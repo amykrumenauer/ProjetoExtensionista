@@ -9,9 +9,9 @@ const Contato = () => {
     <section id="contato" className="contato">
       <h2 className="contato-titulo">Entre em contato</h2>
       <p className="contato-texto">
-        Na Peixaria e Empório do Vale, nossa jornada é guiada pelos pilares da tradição e da qualidade.
+        Na Peixaria e Empório do Vale, nossa jornada é guiada pelos pilares da tradição e da qualidade. Localizados no coração da Fazendinha, nossa missão é levar o sabor e a frescura do mar diretamente para você. 
         <br />
-        Venha nos visitar ou envie uma mensagem e descubra ofertas exclusivas que preparamos pra você!
+        Venha nos visitar ou envie uma mensagem para descobrir ofertas exclusivas que preparamos especialmente para você! 
       </p>
 
       <div className="contato-conteudo">
